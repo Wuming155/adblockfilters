@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CWjNgrSeDD4N8lZ4EUzAFg
-! Version: 202404172351
+! Checksum: PgKutROQRfuWFt1oGsiMrw
+! Version: 202404181611
 ! Title: EasyList
-! Last modified: 17 Apr 2024 23:51 UTC
+! Last modified: 18 Apr 2024 16:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17746,6 +17746,7 @@ anime-japan.jp#@#.display_ad
 humix.com#@#.ez-video-wrap
 thestudentroom.co.uk#@#.fixed_ad
 songlyrics.com#@#.footer-ad
+634929.jp,d-hosyo.co.jp#@#.footer_ads
 guloggratis.dk#@#.gallery-ad
 davidsilverspares.co.uk#@#.greyAd
 forums.digitalspy.com,marketwatch.com#@#.has-ad
@@ -24792,6 +24793,7 @@ browsershots.org#@#.advert_area
 ||circusinjunctionarrangement.com^
 ||circusmediocre.com^
 ||cirmudcap.com^
+||cirsoaksat.net^
 ||cirsoiddanize.com^
 ||ciscoesfirring.guru^
 ||cisfazpisju.com^
@@ -40220,6 +40222,7 @@ browsershots.org#@#.advert_area
 ||natseegirde.net^
 ||nattepush.com^
 ||nattierariosi.space^
+||natuarycomping.com^
 ||naturalhealthsource.club^
 ||naturalistsbumpmystic.com^
 ||naturallyedaciousedacious.com^
@@ -65268,6 +65271,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||greatandhra.com/images/landing/
 ||grow.gab.com/galahad/
 ||hamodia.co.uk/images/worldfirst-currencyconversion.jpg
+||healthcentral.com/common/ads/generateads.js
 ||hearstapps.com/moapt/moapt-hdm.latest.js
 ||hentent.stre4mplay.one^
 ||hentent.streampiay.fun^
@@ -66010,6 +66014,7 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|adblockeronstape.me|adblocker
 ||037jav.com/wp-content/uploads/2021/04/*.gif
 ||18porn.sex/ptr18.js
 ||18teensex.tv/player/html.php$subdocument
+||2watchmygf.com/spot/
 ||3movs.com/2ff/
 ||3movs.xxx/2ff/
 ||3naked.com/nb/
@@ -66167,6 +66172,7 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|adblockeronstape.me|adblocker
 ||fmgroupdist.com/mafanikio/$image,domain=bdsmtest.org
 ||footztube.com/b_
 ||footztube.com/f_
+||freehqsex.com/ads/
 ||freelivesex.tv/imgs/ad/
 ||freeones.com/build/freeones/adWidget.$script
 ||freeones.com/static-assets/istripper/
@@ -67994,7 +68000,7 @@ carsdirect.com##.adFooterWrapper
 bramptonguardian.com,guelphmercury.com,insideottawavalley.com,niagarathisweek.com,thespec.com,thestar.com##.adLabelWrapper
 insideottawavalley.com,thestar.com##.adLabelWrapperManual
 bramptonguardian.com##.adSlot___3IQ8M
-drive.com.au##.adSpacing_drive-ad-spacing__g09um
+drive.com.au##.adSpacing_drive-ad-spacing__HdaBg
 thestockmarketwatch.com##.adSpotPad
 healthnfitness.net##.adTrack
 sofascore.com##.adUnitBox
@@ -69182,6 +69188,7 @@ getgreenshot.org##.ga-ldrbrd
 getgreenshot.org##.ga-skscrpr
 elevenforum.com,html-code-generator.com##.gads
 eonline.com##.gallery-rail-sticky-container
+drive.com.au##.gam-ad
 komikindo.tv##.gambar_pemanis
 cdromance.com##.game-container[style="grid-column: span 2;"]
 geoguessr.com##.game-layout__in-game-ad
@@ -69362,6 +69369,7 @@ bizarrepedia.com##.holder
 radiocaroline.co.uk##.home-banner
 manutd.com##.home-content-panel__sponsor
 pcgamingwiki.com##.home-gamesplanet-promo
+freespoke.com##.home-page-message
 merriam-webster.com##.home-redesign-ad
 israelnationalnews.com##.home-subsections-banner
 christianpost.com##.home-videoplayer
@@ -71501,6 +71509,7 @@ shareae.com##a[href^="https://aejuice.com/"]
 lilymanga.com##a[href^="https://amzn.to/"]
 downloadhub.ltd##a[href^="https://bestbuyrdp.com/"]
 detectiveconanworld.com##a[href^="https://brave.com/"]
+broadwayworld.com##a[href^="https://cloud.broadwayworld.com/rec/ticketclick.cfm"]
 cript.to##a[href^="https://cript.to/goto/"]
 cript.to##a[href^="https://cript.to/link/"][href*="?token="]
 sythe.org##a[href^="https://discord.gg/dmwatch"]
@@ -72084,6 +72093,7 @@ thisday.app##div[style="min-height: 340px;"]:has(div.ad)
 nicelocal.com##div[style="min-height: 600px;"]:has(iframe[id^="google_ads_"])
 nicelocal.com##div[style="min-height: 90px;"]:has(iframe[id^="google_ads_"])
 tartaria-faucet.net##div[style^="display"]:has([src^="https://multiwall-ads.shop/"])
+90min.com##figure:has(> div > #mm-player-placeholder-large-screen)
 nex-software.com##h4:has(a[href$="/reimage"])
 walmart.com##li.items-center:has(div[data-ad-component-type="wpa-tile"])
 walgreens.com##li.owned-brands:has(figure.sponsored)
